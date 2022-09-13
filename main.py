@@ -4,7 +4,7 @@ RESET = '\033[39m'
 GREEN = '\033[92m'
 BLUE = '\033[94m'
 print ("")
-print("\033[31m BIENVENIDA A LA TRIVIA SOBRE HISTORIA DEL PERÚ".center(100))
+print("\033[31m BIENVENID@ A LA TRIVIA SOBRE HISTORIA DEL PERÚ".center(100))
 print (""+ RESET)
 # Se pinta las palabras con red y con reset finalizas el color de la palabra.
 # El .center es para centrar la palabra.
