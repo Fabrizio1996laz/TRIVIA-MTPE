@@ -40,7 +40,7 @@ while validador < 2:
     print ("Tu respuesta es incorrecta") 
     validador +=1
   else:
-    print("Elijiste una opción correcta incorrecta!")        
+    print("Elijiste una opción incorrecta!")        
     validador +=1
   numero = int (input("Ingresa nuevamente tu respuesta: "))
 
@@ -74,7 +74,7 @@ while validador_2 < 2:
       print ("Tu respuesta es incorrecta") 
       validador_2 +=1
     else:
-      print("Elijiste una opción correcta incorrecta!")        
+      print("Elijiste una opción incorrecta!")        
       validador_2 +=1
     numero_2 = int (input("Ingresa nuevamente tu respuesta: "))
 
@@ -111,7 +111,7 @@ while validador_3 < 2:
       print ("Tu respuesta es incorrecta") 
       validador_3 +=1
     else:
-      print("Elijiste una opción correcta incorrecta!")        
+      print("Elijiste una opción incorrecta!")        
       validador_3 +=1
     numero_3 = int (input("Tu respuesta es: "))
 
