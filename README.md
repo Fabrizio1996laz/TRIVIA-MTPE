@@ -19,5 +19,12 @@ Te invito a jugar la trivia https://replit.com/@canvio27canvio/TRIVIA-MTPE
 2️⃣ Antes de marcar debes leer las alternativas puesto que tendras 6 opciones.
 
 
-2️⃣ Tendrás 2 oportunidades para poder marca , si los fallas tu puntuación será 0.
+3️⃣ Tendrás 2 oportunidades para poder marca , si los fallas tu puntuación será 0.
+
+4️⃣ Al finalizar verás tu puntaje máximo que alcanzaste.
+
+### SUGERENCIAS 👁️👀
+Chic@s si tuvieran sigerencias de la trivia te agradecería en que me lo comentes, tu opinión vale mucho.
+
+### AHORA SI A DISFRUTAR LA TRIVIA ---> https://replit.com/@canvio27canvio/TRIVIA-MTPE
 
