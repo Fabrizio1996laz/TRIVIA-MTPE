@@ -24,7 +24,7 @@ Te invito a jugar la trivia https://replit.com/@canvio27canvio/TRIVIA-MTPE
 4️⃣ Al finalizar verás tu puntaje máximo que alcanzaste.
 
 ### SUGERENCIAS 👁️👀
-Chic@s si tuvieran sugerencias de la trivia te agradecería en que me lo comentes, tu opinión vale mucho.
+Chic@s si tuvieran sugerencias de la trivia te agradecería que me lo comentes, tu opinión vale mucho.
 
 ### AHORA SI A DISFRUTAR LA TRIVIA ---> https://replit.com/@canvio27canvio/TRIVIA-MTPE
 
