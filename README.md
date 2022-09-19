@@ -5,7 +5,7 @@ y  ¿tú, te atreverias a jugar la trivia ?. Vamos intentalo.
 
 
 Te comento que en la trivia tiene 3 oportunidades para contestar, cada pregunta buena te dará 6 puntos los cuales se sumarán
-y sabes cuanto fue tu puntaje final. 🥳🥳🥳
+y sabras cuanto fue tu puntaje máximo al finalizar la trivia. 🥳🥳🥳
 
 
 ![image](https://user-images.githubusercontent.com/113265534/190949104-a86a24a4-71cc-4e76-8bc9-944869d55859.png)
