@@ -1,4 +1,4 @@
-### Bienvenido a la TRIVIA-MTPE ! :p 🤩
+### Bienvenido a la TRIVIA-MTPE ! 🤩🤩🤩🤩🤩🤩
 <h1 align="center"> Trivia de cuanto sabes del Perú </h1>
 Hola chicos!! , en este repositorio encontrarás una trivia relaciona a 4 preguntas básicas que todo peruano debe saber
 y  ¿tú, te atreverias a jugar la trivia ?. Vamos intentalo.
